@@ -1,5 +1,6 @@
-### Hi there 👋
+### Greetings! 👋👋👋
 
+I'm Justin Li, an aspiring Software Developer from New Jersey, US. 
 <!--
 **JustinLi3/JustinLi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
